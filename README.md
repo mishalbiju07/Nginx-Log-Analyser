@@ -2,8 +2,6 @@
 
 A simple command-line tool to analyze Nginx access logs.  
 
-This project is designed to help practice **shell scripting** skills and basic command-line data processing.
-
 ---
 
 ## **Features**
