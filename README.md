@@ -33,8 +33,6 @@ The log file should contain the following fields:
 - Referrer
 - User agent
 
-You can use the sample Nginx access log file for testing.
-
 ---
 
 ## **Usage**
